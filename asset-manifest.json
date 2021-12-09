@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wdm-test/static/css/main.e01afbf1.chunk.css",
+    "main.js": "/wdm-test/static/js/main.650e1c58.chunk.js",
+    "main.js.map": "/wdm-test/static/js/main.650e1c58.chunk.js.map",
+    "runtime-main.js": "/wdm-test/static/js/runtime-main.759130e9.js",
+    "runtime-main.js.map": "/wdm-test/static/js/runtime-main.759130e9.js.map",
+    "static/css/2.383c0125.chunk.css": "/wdm-test/static/css/2.383c0125.chunk.css",
+    "static/js/2.77a8a6bb.chunk.js": "/wdm-test/static/js/2.77a8a6bb.chunk.js",
+    "static/js/2.77a8a6bb.chunk.js.map": "/wdm-test/static/js/2.77a8a6bb.chunk.js.map",
+    "static/js/3.14f2b3cd.chunk.js": "/wdm-test/static/js/3.14f2b3cd.chunk.js",
+    "static/js/3.14f2b3cd.chunk.js.map": "/wdm-test/static/js/3.14f2b3cd.chunk.js.map",
+    "index.html": "/wdm-test/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/wdm-test/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.e01afbf1.chunk.css.map": "/wdm-test/static/css/main.e01afbf1.chunk.css.map",
+    "static/js/2.77a8a6bb.chunk.js.LICENSE.txt": "/wdm-test/static/js/2.77a8a6bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wdm-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.759130e9.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.77a8a6bb.chunk.js",
+    "static/css/main.e01afbf1.chunk.css",
+    "static/js/main.650e1c58.chunk.js"
+  ]
+}
